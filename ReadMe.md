@@ -12,7 +12,7 @@
 
 1. 春节是中国的一个重要节日。
 
-2. 它在农历的一月一日开始。
+2. 它在农历的一月一号开始。
 
 3. 人们庆祝春节，迎接新年。
 
@@ -30,7 +30,7 @@
 
 1. Chūnjié shì Zhōngguó de yīgè zhòngyào jiérì.
 
-2. Tā zài nónglì de yī yuè yī rì kāishǐ.
+2. Tā zài nónglì de yī yuè yī hào kāishǐ.
 
 3. Rénmen qìngzhù Chūnjié, yíngjiē xīnnián.
 
