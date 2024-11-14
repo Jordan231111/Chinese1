@@ -128,7 +128,10 @@
 
 ---
 
-### Slide 3: **红包的传统 (Tradition of Red Envelopes)**
+---
+### Slide 3: 大年三十 
+---
+### Slide 4: **红包的传统 (Tradition of Red Envelopes)**
 
 #### 中文（简体）：
 
@@ -192,7 +195,7 @@
 
 ---
 
-### Slide 4: **春节的传统食物 (Traditional Foods of Chinese New Year)**
+### Slide 5: **春节的传统食物 (Traditional Foods of Chinese New Year)**
 
 #### 中文（简体）：
 
