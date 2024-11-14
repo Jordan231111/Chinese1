@@ -84,7 +84,7 @@
 
 8. 红灯笼挂在屋外。
 
-9. 孩子们穿新衣服。   ** move this to new topic or remove this line **
+9. 孩子们穿新衣服。   ** maybe move this to new topic or remove this line **
 
 #### Pinyin:
 
@@ -104,7 +104,7 @@
 
 8. Hóng dēnglóng guà zài wū wài.
 
-9. Háizimen chuān xīn yīfú.      ** move this to new topic or remove this line **
+9. Háizimen chuān xīn yīfú.      ** maybe move this to new topic or remove this line **
 
 #### English:
 
@@ -124,7 +124,7 @@
 
 8. Red lanterns are hung outside the house.
 
-9. Children wear new clothes.  ** move this to new topic or remove this line **
+9. Children wear new clothes.  ** maybe move this to new topic or remove this line **
 
 ---
 
