@@ -196,7 +196,7 @@
 
 #### 中文（简体）：
 
-1. 春节期间，人们吃很多传统食物。
+1. 春节期间，人们会吃很多传统食物。
 
 2. 比如饺子、鱼和年糕。
 
@@ -220,7 +220,7 @@
 
 #### Pinyin:
 
-1. Chūnjié qíjiān, rénmen chī hěn duō chuántǒng shíwù.
+1. Chūnjié qíjiān, rénmen huì chī hěnduō chuántǒng shíwù.
 
 2. Bǐrú jiǎozi, yú hé niángāo.
 
