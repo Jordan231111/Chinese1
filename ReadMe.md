@@ -6,7 +6,7 @@
 
 ---
 
-### **Slide and Topic 1**
+### **Slide 1: 春节概述 (Overview of Chinese New Year)**
 
 #### 中文（简体）：
 
@@ -64,7 +64,7 @@
 
 ---
 
-### **Slide and Topic 2**
+### Slide 2: **(Preparations and Decorations for Chinese New Year)**
 
 #### 中文（简体）：
 
@@ -128,7 +128,7 @@
 
 ---
 
-### **Slide and Topic 3**
+### Slide 3: **红包的传统 (Tradition of Red Envelopes)**
 
 #### 中文（简体）：
 
@@ -192,7 +192,7 @@
 
 ---
 
-### **Slide and Topic 4**
+### Slide 4: **春节的传统食物 (Traditional Foods of Chinese New Year)**
 
 #### 中文（简体）：
 
