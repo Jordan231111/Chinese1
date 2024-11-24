@@ -1,4 +1,3 @@
-Here is the revised introduction in your requested format:
 
 ---
 
@@ -17,11 +16,6 @@ I am a Chinese 1 student.
 **今天我来说一说春节**  
 **Jīntiān wǒ lái shuō yī shuō Chūnjié**  
 Today, I will talk about the Spring Festival.  
-
---- 
-
-This format keeps the order consistent: **Chinese characters**, then **pinyin**, followed by **English translation.**
-
 
 ---
 
