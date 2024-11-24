@@ -148,9 +148,21 @@ Today, I will talk about the Spring Festival.
 
 ---
 
+
+
+### Slide 3: **大年三十 (Chinese New Year's Eve)**  
+
+1. Chinese New Year's Eve is one of the most important days of the Spring Festival.  
+2. Families gather together for a reunion dinner.  
+3. The dinner is called "New Year's Eve dinner."  
+4. Traditional dishes include dumplings, fish, and rice cakes.  
+6. After dinner, families watch the Spring Festival Gala on TV.  
+7. It is a famous show with singing, dancing, and comedy performances.  
+8. At midnight, people set off firecrackers and fireworks to welcome the new year.  
+9. The loud sounds are believed to scare away bad luck and evil spirits.  
+
 ---
-### Slide 3: 大年三十 
----
+
 ### Slide 4: **红包的传统 (Tradition of Red Envelopes)**
 
 #### 中文（简体）：
