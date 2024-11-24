@@ -2,7 +2,14 @@
   
 **我是叶智明 (Wǒ shì Yè Zhìmíng)**
 
+我是中文一的学生
+Wǒ shì Zhōngwén yī de xuéshēng
+I am a Chinese 1 student.
+
 **今天我来说一说春节 (Jīntiān wǒ lái shuō yī shuō Chūnjié)**
+
+
+
 
 ---
 
