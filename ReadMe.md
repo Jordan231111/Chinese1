@@ -1,19 +1,31 @@
-**大家好 (Dàjiā hǎo)**
-  
-**我是叶智明 (Wǒ shì Yè Zhìmíng)**
+Here is the revised introduction in your requested format:
 
-我是中文一的学生
-Wǒ shì Zhōngwén yī de xuéshēng
-I am a Chinese 1 student.
+---
 
-**今天我来说一说春节 (Jīntiān wǒ lái shuō yī shuō Chūnjié)**
+**大家好**  
+**Dàjiā hǎo**  
+Hello, everyone.  
 
+**我是叶智明**  
+**Wǒ shì Yè Zhìmíng**  
+I am Ye Zhiming.  
 
+**我是中文一的学生**  
+**Wǒ shì Zhōngwén yī de xuéshēng**  
+I am a Chinese 1 student.  
+
+**今天我来说一说春节**  
+**Jīntiān wǒ lái shuō yī shuō Chūnjié**  
+Today, I will talk about the Spring Festival.  
+
+--- 
+
+This format keeps the order consistent: **Chinese characters**, then **pinyin**, followed by **English translation.**
 
 
 ---
 
-### **Slide 1: 春节概述 (Overview of Chinese New Year)**
+### Slide 1: **春节概述 (Overview of Chinese New Year)**
 
 #### 中文（简体）：
 
@@ -23,15 +35,17 @@ I am a Chinese 1 student.
 
 3. 人们庆祝春节，迎接新年。
 
-4. 大家希望好运。
+4. 大家会说“新年快乐”。
 
-5. 春节有几千年的历史。
+5. 大家希望好运。
 
-6. 家人会在一起。
+6. 春节有几千年的历史。
 
-7. 他们一起吃饭，玩游戏。
+7. 家人会在一起。
 
-8. 春节期间，街道很热闹。
+8. 他们一起吃饭，玩游戏。
+
+9. 春节期间，街道很热闹。
 
 #### Pinyin:
 
@@ -41,15 +55,17 @@ I am a Chinese 1 student.
 
 3. Rénmen qìngzhù Chūnjié, yíngjiē xīnnián.
 
-4. Dàjiā xīwàng hǎoyùn.
+4. Dàjiā huì shuō “Xīnnián kuàilè”.
 
-5. Chūnjié yǒu jǐ qiān nián de lìshǐ.
+5. Dàjiā xīwàng hǎoyùn.
 
-6. Jiārén huì zài yīqǐ.
+6. Chūnjié yǒu jǐ qiān nián de lìshǐ.
 
-7. Tāmen yīqǐ chīfàn, wán yóuxì.
+7. Jiārén huì zài yīqǐ.
 
-8. Chūnjié qíjiān, jiēdào hěn rènào.
+8. Tāmen yīqǐ chīfàn, wán yóuxì.
+
+9. Chūnjié qíjiān, jiēdào hěn rènào.
 
 #### English:
 
@@ -59,15 +75,18 @@ I am a Chinese 1 student.
 
 3. People celebrate Chinese New Year and welcome the new year.
 
-4. Everyone hopes for good luck.
+4. Everyone will say “Happy New Year”.
 
-5. Chinese New Year has a history of thousands of years.
+5. Everyone hopes for good luck.
 
-6. Families are together.
+6. Chinese New Year has a history of thousands of years.
 
-7. They eat together and play games.
+7. Families are together.
 
-8. During Chinese New Year, the streets are very lively.
+8. They eat together and play games.
+
+9. During Chinese New Year, the streets are very lively.
+
 
 ---
 
